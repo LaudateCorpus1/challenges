@@ -3,7 +3,7 @@ bkcharts==0.2
 bokeh==0.12.6
 click==6.7
 Flask==0.12.2
-html5lib==0.999
+html5lib==0.999999999
 itsdangerous==0.24
 Jinja2==2.9.6
 lxml==3.8.0
