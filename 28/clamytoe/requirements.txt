@@ -8,7 +8,7 @@ itsdangerous==0.24
 Jinja2==2.9.6
 lxml==3.8.0
 MarkupSafe==0.23
-numpy==1.13.1
+numpy==1.22.0
 pandas==0.20.2
 python-dateutil==2.6.0
 pytz==2017.2
