@@ -9,7 +9,7 @@ pytest==3.2.5
 requests==2.18.4
 six==1.11.0
 slackclient==1.1.0
-urllib3==1.22
+urllib3==1.26.5
 webencodings==0.5.1
 websocket-client==0.44.0
 wincertstore==0.2
